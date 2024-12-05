@@ -1,16 +1,7 @@
 # quiz_app
 
-A new Flutter project.
+## Overview 
+A basic quiz app initially built as part of a flutter development course created by Maximilian Schwarzmüller before I made a custom solution to match the final product as an exercise. It was developed using an emulated google pixel 3a and the interface was built with this screen specifications in mind.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Description
+This is a simple 6 question multiple choice quiz app that randomises the answer order each turn and provides the user an overview of their results at the end, highlighting their answer and the correct answer before allowing them to retake the quiz.
